@@ -1,2 +1,1 @@
-# css-barriers
-wip
+Talk idea in progress...
